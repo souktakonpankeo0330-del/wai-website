@@ -3,7 +3,7 @@ title: "Tutorials"
 permalink: /tutorials/
 ref: /tutorials/
 lang: en
-last_updated: 2023-02-16
+last_updated: 2026-08-26
 first_published: "September 2014"
 
 github:
@@ -15,7 +15,7 @@ resource:
 image: /content-images/tutorials/images/social.png
 acknowledgements: /tutorials/acknowledgements/
 footer: >
-   <p><strong>Editors:</strong> Eric Eggert, Shadi Abou-Zahra. Update Editor: Brian Elton. Contributors: Shawn Lawton Henry, Anna Belle Leiserson, Sharron Rush, Bim Egan, <a href="https://www.w3.org/groups/wg/ag/participants">AG WG participants</a>, <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG participants</a>. ACKNOWLEDGEMENTS.</p>
+   <p><strong>Editors:</strong> Eric Eggert, Shadi Abou-Zahra. Update Editors: Becky Gibson, Brian Elton. Contributors: Shawn Lawton Henry, Anna Belle Leiserson, Sharron Rush, Bim Egan, <a href="https://www.w3.org/groups/wg/ag/participants">AG WG participants</a>, <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG participants</a>. ACKNOWLEDGEMENTS.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/ACT/">WAI-ACT project</a>, co-funded by the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 ---
 
@@ -35,7 +35,7 @@ Web authoring tools (Content Management Systems (CMS), <abbr title="What you see
 
 ## Relationship to WCAG
 
-These tutorials provide best-practice guidance on implementing accessibility in different situations. They combine WCAG 2 success criteria and techniques from various conformance levels. Each tutorial page lists the specific success criteria and techniques used on that page. A more comprehensive coverage of the normative [WCAG 2.0](https://www.w3.org/TR/WCAG20/) and [WCAG 2.1](https://www.w3.org/TR/WCAG21/) standards and their supporting materials is provided in **[How to Meet WCAG 2: A customizable quick reference](https://www.w3.org/WAI/WCAG21/quickref/)**.
+These tutorials provide best-practice guidance on implementing accessibility in different situations. They combine WCAG 2 success criteria and techniques from various conformance levels. Each tutorial page lists the specific success criteria and techniques used on that page. A more comprehensive coverage of the normative [WCAG 2.0](https://www.w3.org/TR/WCAG20/), [WCAG 2.1](https://www.w3.org/TR/WCAG21/), and [WCAG 2.2](https://www.w3.org/TR/WCAG22/) standards and their supporting materials is provided in **[How to Meet WCAG 2: A customizable quick reference](https://www.w3.org/WAI/WCAG22/quickref/)**.
 
 ## Additional Resources
 
